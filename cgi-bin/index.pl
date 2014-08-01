@@ -68,13 +68,13 @@ print $q->start_html(
     -style=>{'src'=>'../../style.css'},
     -script=>[
       { -type => 'text/javascript',
-        -src   => 'http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js'
+        -src   => '../../scripts/jquery.min.js'
       },
       { -type => 'text/javascript',
-        -src   => 'http://malsup.github.com/chili-1.7.pack.js'
+        -src   => '../../scripts/chili-1.7.pack.js'
       },
       { -type => 'text/javascript',
-        -src   => 'http://malsup.github.com/jquery.cycle.all.js'
+        -src   => '../../scripts/jquery.cycle.all.js' 
       },
      $JSCRIPT]
 );
@@ -182,15 +182,15 @@ sub validDir {
 
 
 sub imageGallery {
-my ($dir) = @_;
+   my ($dir) = @_;
    $dir = lc($dir);
-my $directory = "/../images/$dir";
- opendir(NEWDIR, "/home2/annaturn/public_html/images/".$dir) or die $!;
-@files = sort {$a <=> $b} (readdir(NEWDIR)); #grep {/(jpg|jpeg|JPG|JPEG|bmp|BMP|png|PNG|gif|GIF|tiff|TIFF)/}
-    foreach my $file (@files) {
-           if (-f "/home2/annaturn/public_html/images/".$dir."/".$file) {
-                  print qq(            <img src="$directory/$file"/>\n);
-           }
+   my $directory = "/../images/$dir";
+   opendir(NEWDIR, "/home5/annaturn/public_html/images/".$dir) or die $!;
+   @files = sort {$a <=> $b} (readdir(NEWDIR)); #grep {/(jpg|jpeg|JPG|JPEG|bmp|BMP|png|PNG|gif|GIF|tiff|TIFF)/}
+   foreach my $file (@files) {
+      if (-f "/home5/annaturn/public_html/images/".$dir."/".$file) {
+         print qq(            <img src="$directory/$file"/>\n);
       }
-closedir(NEWDIR);
+   }
+   closedir(NEWDIR);
 }

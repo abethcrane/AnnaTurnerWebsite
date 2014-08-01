@@ -138,7 +138,7 @@ sub links{
 }   
 
 sub default {
-   my $directory = getcwd."/../images/";   
+   my $directory = getcwd."/../images/";
    my $result  = ""; 
    opendir(DIR, $directory) or die $!;
     
@@ -184,12 +184,13 @@ sub validDir {
 sub imageGallery {
    my ($dir) = @_;
    $dir = lc($dir);
-   my $directory = "/../images/$dir";
-   opendir(NEWDIR, "/home5/annaturn/public_html/images/".$dir) or die $!;
+   my $directory = getcwd."/../images/";
+   my $local_dir = "/../images/$dir";
+   opendir(NEWDIR, $directory.$dir) or die $!;
    @files = sort {$a <=> $b} (readdir(NEWDIR)); #grep {/(jpg|jpeg|JPG|JPEG|bmp|BMP|png|PNG|gif|GIF|tiff|TIFF)/}
    foreach my $file (@files) {
-      if (-f "/home5/annaturn/public_html/images/".$dir."/".$file) {
-         print qq(            <img src="$directory/$file"/>\n);
+      if (-f $directory.$dir."/".$file) {
+         print qq(            <img src="$local_dir/$file"/>\n);
       }
    }
    closedir(NEWDIR);

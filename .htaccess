@@ -1,0 +1,7 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^/$ /cgi-bin/index\.pl
+RewriteRule ^$ /cgi-bin/index\.pl
+RewriteRule ^index\.html$ cgi-bin/index\.pl
+RewriteRule ^([0-9]+[a-zA-Z0-9_]*)$ cgi-bin/index\.pl/$1
+</IfModule>

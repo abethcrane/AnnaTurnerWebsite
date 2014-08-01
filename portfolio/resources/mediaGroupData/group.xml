@@ -1,0 +1,207 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 3.3</authorApplication>
+<creationDate>03/13/12, 10:18:23 AM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle>Anna Turner          0417 290 627         anna@annaturner.com.au</groupTitle>
+<groupDescription>Web Photo Gallery created by Adobe Lightroom.</groupDescription>
+<siteTitle>REAL ESTATE PHOTORAPHY</siteTitle>
+<contactName></contactName>
+<contactEmail>mailto:user@domain</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="48" maxwidth="48" size="thumb"/>
+<imageSize maxheight="300" maxwidth="450" size="small"/>
+<imageSize maxheight="450" maxwidth="800" size="medium"/>
+<imageSize maxheight="520" maxwidth="1040" size="large"/>
+</sizes>
+<media totalGallerySize="15">
+<item>
+<title></title>
+<description></description>
+<imageID id="312967" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/mum_and_dads.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/mum_and_dads.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/mum_and_dads.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/mum_and_dads.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312438" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/_MG_1442.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/_MG_1442.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/_MG_1442.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/_MG_1442.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312526" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/_MG_1615.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/_MG_1615.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/_MG_1615.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/_MG_1615.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312742" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/beachhouse_035.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/beachhouse_035.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/beachhouse_035.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/beachhouse_035.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312764" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/beachhouse_037.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/beachhouse_037.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/beachhouse_037.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/beachhouse_037.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312753" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/beachhouse_036.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/beachhouse_036.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/beachhouse_036.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/beachhouse_036.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312786" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/beachhouse_039.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/beachhouse_039.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/beachhouse_039.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/beachhouse_039.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312333" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="467" src="images/large/_MG_0683.jpg" width="700" size="large"/>
+<rendition height="450" src="images/medium/_MG_0683.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/_MG_0683.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/_MG_0683.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312559" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/_MG_1642.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/_MG_1642.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/_MG_1642.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/_MG_1642.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312548" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/_MG_1635_1_.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/_MG_1635_1_.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/_MG_1635_1_.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/_MG_1635_1_.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312687" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/Beach_House_007.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/Beach_House_007.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/Beach_House_007.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/Beach_House_007.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312383" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/_MG_1240_Edit.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/_MG_1240_Edit.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/_MG_1240_Edit.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/_MG_1240_Edit.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312643" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/_MG_1740.jpg" width="347" size="large"/>
+<rendition height="450" src="images/medium/_MG_1740.jpg" width="300" size="medium"/>
+<rendition height="300" src="images/small/_MG_1740.jpg" width="200" size="small"/>
+<rendition height="48" src="images/thumb/_MG_1740.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312654" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/_MG_1762.jpg" width="347" size="large"/>
+<rendition height="450" src="images/medium/_MG_1762.jpg" width="300" size="medium"/>
+<rendition height="300" src="images/small/_MG_1762.jpg" width="200" size="small"/>
+<rendition height="48" src="images/thumb/_MG_1762.jpg" width="32" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="312808" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="520" src="images/large/bell_christmas_card.jpg" width="780" size="large"/>
+<rendition height="450" src="images/medium/bell_christmas_card.jpg" width="675" size="medium"/>
+<rendition height="300" src="images/small/bell_christmas_card.jpg" width="450" size="small"/>
+<rendition height="32" src="images/thumb/bell_christmas_card.jpg" width="48" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>
